@@ -1,0 +1,39 @@
+html{
+	background-image: url(https://i.pinimg.com/originals/37/45/c3/3745c3e50e0e529a2b4e0c78637e1ce3.jpg);
+}
+body{
+	width: 90%;
+	margin: 0 auto;
+}
+h1.center{
+	font-family: 'Metal Mania', cursive;
+	text-shadow: 0 0 3px white, 0 0 3px white, 0 0 3px white, 0 0 3px white, 0 0 6px black, 0 0 6px black;
+}
+img{
+	width: 200px;
+	height: 430px
+}
+.card .card-content{
+	padding: 10px 15px
+}
+
+p{
+	font-size: 12px;
+	
+}
+strong{
+	width: 100px;
+	display: inline-block;
+	text-align: left;
+}
+i{
+	display: inline-block;
+	margin-left: 19px
+}
+
+.simbolos{
+	font-size: 0.7em;
+}
+input{
+	color: white;
+}
